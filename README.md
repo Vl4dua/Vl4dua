@@ -1,10 +1,10 @@
+
 # Hi there! 👋 I'm Vlad
 
-<div align="center">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vladua.dev-FF5722?style=for-the-badge)](https://vladua.dev)
 
-</div>
+
 
 ## About Me 🚀
 
