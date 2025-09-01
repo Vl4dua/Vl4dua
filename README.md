@@ -34,16 +34,20 @@ I'm a **Full-Stack Developer** passionate about creating modern web applications
 
 <div align="center">
 
-### 🚀 Tiagoreplicass
-[![TiagoXFinds](https://i.postimg.cc/3wfpJSjR/tiagox.png)]
+### 🚀 TiagoXFinds
+<a href="https://tiagoxfinds.com">
+  <img src="https://i.postimg.cc/3wfpJSjR/tiagox.png" alt="TiagoXFinds" width="300" height="150"/>
+</a>
 
 **TiagoXFinds helps users find trusted product links on Taobuy, ensuring a safe shopping experience.**  
 🔗 [Website](https://tiagoxfinds.com) 
 
 ---
 
-### 💼 Repsdripita
-[![Repsdripita](https://i.postimg.cc/VLFcyjg5/repsdripita.png)]
+### 💼 RepsDripIta
+<a href="https://repsdripita.vercel.app/">
+  <img src="https://i.postimg.cc/VLFcyjg5/repsdripita.png" alt="RepsDripIta" width="300" height="150"/>
+</a>
 
 **RepsDripIta helps users find trusted product links on CSSBuy & CNfans, ensuring a safe shopping experience.**  
 🔗 [Website](https://repsdripita.vercel.app/)
@@ -51,7 +55,9 @@ I'm a **Full-Stack Developer** passionate about creating modern web applications
 ---
 
 ### 🌐 SpreadOS
-[![SpreadOS](https://i.postimg.cc/CK2BVZYn/Spread-OShero.png)]
+<a href="https://spreados.vercel.app/">
+  <img src="https://i.postimg.cc/CK2BVZYn/Spread-OShero.png" alt="SpreadOS" width="300" height="150"/>
+</a>
 
 **SpreadOS helps users find trusted product links on Hipobuy, ensuring a safe shopping experience.**  
 🔗 [Website](https://spreados.vercel.app/)
@@ -61,7 +67,7 @@ I'm a **Full-Stack Developer** passionate about creating modern web applications
 ## Activity 📈
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vl4dua&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vl4dua&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## Connect with Me 🤝
@@ -72,7 +78,7 @@ I'm a **Full-Stack Developer** passionate about creating modern web applications
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=vl4dua&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Vl4dua&color=blueviolet&style=flat-square)
 
 ⭐ **Don't forget to star my repositories if you like them!**
 
