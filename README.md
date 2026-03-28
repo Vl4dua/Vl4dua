@@ -48,7 +48,7 @@ It protects things like:
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs,react,php&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs,react,php,python&theme=dark" alt="Tech stack icons" />
 </div>
 
 <br />
@@ -62,6 +62,7 @@ It protects things like:
   <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="42" alt="Next.js" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" />
   <img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python" />
 </div>
 
 ---
@@ -69,8 +70,8 @@ It protects things like:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vl4dua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4dua&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vl4dua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4dua&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top languages" />
 </div>
 
 <div align="center">
