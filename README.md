@@ -1,20 +1,15 @@
-<div align="center">
+<h1 align="left">Hey, I'm <span style="color:#22c55e;">Vl4dua</span> 👋</h1>
 
-# Vl4dua
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Vl4dua&label=Profile%20views&color=0e1117&style=flat-square" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=F5F5F5&center=true&vCenter=true&width=700&lines=Frontend+Developer;Clean+UI+Builder;Shipping+Real+Projects" />
+I build **clean interfaces**, **fast web apps**, and **real products**.
 
-<br />
+Frontend-focused with full-stack execution.  
+I care about **design**, **performance**, and **how things feel**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vladua.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vladua.dev)
-
-</div>
-
----
-
-## About
-
-Clean UI. Fast apps. Real projects.
+Based in Italy.
 
 ---
 
@@ -27,17 +22,16 @@ Extension — JS / HTML / CSS
 
 ## Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,php,python&theme=dark" />
-</div>
-
----
-
-## Stats
-
-<div align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vl4dua&theme=tokyonight" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---
 
