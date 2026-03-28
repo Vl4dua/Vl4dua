@@ -5,9 +5,11 @@
 </p>
 
 <p align="left">
-  Building <b>clean UI</b>, <b>fast apps</b> and <b>real products</b>.
+  Building <b>clean UI</b>, <b>fast apps</b> and <b>real products</b>.<br/>
+  Focused on <b>modern design</b>, <b>performance</b> and smooth user experience.<br/>
+  Turning ideas into <b>polished, usable web products</b>.<br/>
+  Based in <b>Ukraine / Italy</b>.
 </p>
-
 ---
 
 ## ⚡ Projects
