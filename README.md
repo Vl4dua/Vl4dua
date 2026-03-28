@@ -1,86 +1,97 @@
-
-# Hi there! 👋 I'm Vlad
-
-  
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-vladua.dev-FF5722?style=for-the-badge)](https://vladua.dev)
-
-
-
-## About Me 🚀
-
-I'm a **Full-Stack Developer** passionate about creating modern web applications. I love working with JavaScript, building user-friendly interfaces, and solving complex problems through code.
-
-- 🔭 Currently working on exciting web projects
-- 🌱 Always learning new technologies
-- 💬 Ask me about web development!
-- 📍 Based in Italy/Ukraine
-
-## Tech Stack 🛠️
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-## GitHub Stats 📊
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vl4dua&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4dua&layout=compact&langs_count=6&theme=radical"/>
-</div>
-
-## Featured Projects 🌟
-
 <div align="center">
 
-### 🚀 TiagoXFinds
-<a href="https://tiagoxfinds.com">
-  <img src="https://i.postimg.cc/3wfpJSjR/tiagox.png" alt="TiagoXFinds" width="300" height="150"/>
-</a>
+# Vl4dua
 
-**TiagoXFinds helps users find trusted product links on Taobuy, ensuring a safe shopping experience.**  
-🔗 [Website](https://tiagoxfinds.com) 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=F5F5F5&center=true&vCenter=true&width=900&lines=Frontend+Developer;Full-Stack+Web+Builder;Modern+UI+%2F+UX+Lover;Building+cool+things+with+real+impact" alt="Typing animation" />
 
----
+<br />
+<br />
 
-### 💼 RepsDripIta
-<a href="https://repsdripita.vercel.app/">
-  <img src="https://i.postimg.cc/VLFcyjg5/repsdripita.png" alt="RepsDripIta" width="300" height="150"/>
-</a>
-
-**RepsDripIta helps users find trusted product links on CSSBuy & CNfans, ensuring a safe shopping experience.**  
-🔗 [Website](https://repsdripita.vercel.app/)
-
----
-
-### 🌐 SpreadOS
-<a href="https://spreados.vercel.app/">
-  <img src="https://i.postimg.cc/CK2BVZYn/Spread-OShero.png" alt="SpreadOS" width="300" height="150"/>
-</a>
-
-**SpreadOS helps users find trusted product links on Hipobuy, ensuring a safe shopping experience.**  
-🔗 [Website](https://spreados.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vladua.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vladua.dev)
+[![Profile Views](https://img.shields.io/badge/Profile%20Views-Tracked-1a1d24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vl4dua)
 
 </div>
 
-## Activity 📈
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vl4dua&theme=radical" alt="GitHub Streak" />
-</div>
+## About Me
 
-## Connect with Me 🤝
+I build modern web experiences with a strong focus on clean design, fast interfaces, and projects that actually feel polished.
 
-<div align="center">
+Right now I am focused on creating products and tools that look sharp, feel smooth, and solve real problems on the web.
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://vladua.dev)
+- Frontend-first mindset with full-stack execution
+- Strong interest in modern UI, interactions, and product feel
+- Based in Italy / Ukraine
+- Always building, refining, and shipping
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Vl4dua&color=blueviolet&style=flat-square)
+## In The Spotlight
 
-⭐ **Don't forget to star my repositories if you like them!**
+### StreamShield
+
+**StreamShield** is a privacy-focused browser extension made for streamers and creators who want to browse live without exposing sensitive information on screen.
+
+It protects things like:
+- IP addresses
+- emails
+- phone numbers
+- addresses
+- geo and ISP data
+- user-agent strings
+
+[![Repo](https://img.shields.io/badge/View%20StreamShield-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vl4dua/StreamShield)
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,nextjs,react,php&theme=dark" alt="Tech stack icons" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" width="42" alt="CSS3" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="42" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="42" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF" width="42" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="42" alt="React" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP" />
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vl4dua&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vl4dua&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vl4dua&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## Current Focus
+
+- Building modern web projects with strong visual identity
+- Improving frontend quality and interaction design
+- Shipping tools that feel useful, fast, and clean
+
+---
+
+## Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-vladua.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://vladua.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Vl4dua-18181b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vl4dua)
 
 </div>
